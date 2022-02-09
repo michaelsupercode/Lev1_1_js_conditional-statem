@@ -1,0 +1,12 @@
+        fieldset {
+            padding: 1rem;
+        }
+        
+        h6 {
+            padding: 1rem;
+        }
+        
+        fieldset input {
+            display: block;
+            width: 145px;
+        }
