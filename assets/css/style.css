@@ -1,4 +1,9 @@
-        fieldset {
+body {
+    display: flex;
+        justify-content: center;
+}
+
+fieldset {
             padding: 1rem;
         }
         
